@@ -8,6 +8,7 @@ To display the form, simply use the given images. Red text in square brackets in
 Yellow boxes are image placeholders. The image name and its dimension can be found inside the yellow box.
 All the sizes are pixel values in the order of width x height.
 
+
 ### Requirements
 - Target browsers (Chrome, Firefox, Safari, Edge, Chrome mobile, Safari mobile)
 - Use modern HTML and CSS to create the landing page (no frameworks)
@@ -18,13 +19,18 @@ All the sizes are pixel values in the order of width x height.
 - **Note:** The teaser image is larger than the teaser area's size!
     - Display the image like the design shows without resizing it
 - Make sure everything is performance optimized (feel free to resize and optimize assets as well)
-- Click on the blue link "Sign up for your risk-free trial »"
-    - Use plain javascript to to open a modal overlay
+
+
+**Bonus**
+- The blue link "Sign up for your risk-free trial »" should be clickable
+    - Implement a simple overlay using plain javascript
     - It should have a size of 480x320
-    - It should be vertically and horizontally centered
+    - It should be centered vertically and horizontally
     - It should show an iframe with a url of your choice
     - It should be closeable with a dedicated close-button
+    - The overlay doesn't need to adapt to different screen sizes
     - **Optional:** Make it look nice  
+
 
 #### Text Contents
 - **Page Title**
@@ -54,6 +60,7 @@ All the sizes are pixel values in the order of width x height.
 - green areas: `45px`
 - orange areas: `30px`
 
+
 #### Colors
 - Text: `#3A3A3A`
 - Blue CTA link / border: `#265DA6`
@@ -61,6 +68,7 @@ All the sizes are pixel values in the order of width x height.
 - Grey small text / border: `#808080`
 - Light grey background: `#EEEEEE`
 - Orange text: `#F07700`
+
 
 #### Font
 - Face: `Open Sans`
