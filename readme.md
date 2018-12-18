@@ -16,8 +16,7 @@ All the sizes are pixel values in the order of width x height.
 - Use the images to display the form (form_desktop and form_mobile)
 - Use the given assets and chose the appropriate format and size
 - **Note:** The teaser image is larger than the teaser area's size!
-    - Display the image like the design shows using an image tag
-    - Teaser image should have no transparency and of course no text on it ;)
+    - Display the image like the design shows without resizing it
 - Make sure everything is performance optimized (feel free to resize and optimize assets as well)
 - Click on the blue link "Sign up for your risk-free trial »"
     - Use plain javascript to to open a modal overlay
