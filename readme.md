@@ -43,7 +43,7 @@ All the sizes are pixel values in the order of width x height.
     - These hearing aids will change your life!
 - **H2**
     - The future of modern hearing systems is here
-- **List**
+- **USP List**
     - Most discreet design
     - Best speech understanding
     - Smartphone connectivity
