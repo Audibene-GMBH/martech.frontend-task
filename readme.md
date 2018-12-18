@@ -2,9 +2,9 @@
 
 Hello,
 
-we want you to create a simple landing page with the given design.
+we want you to create a simple landing page with the given design **(see design.pdf)**.
 All the needed images can be found in the images folder. Further styling details can be found below.
-To display the form, simply use the given image. Red text in square brackets indicate the size of an area and should be omitted.
+To display the form, simply use the given images. Red text in square brackets indicate the size of an area and should be omitted.
 Yellow boxes are image placeholders. The image name and its dimension can be found inside the yellow box.
 All the sizes are pixel values in the order of width x height.
 
